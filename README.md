@@ -2,6 +2,8 @@
 Twitter風SNSアプリのAPI
 
 < --- トップ画面の画像 ---- >
+<img width="1438" alt="スクリーンショット 2021-03-27 14 49 27" src="https://user-images.githubusercontent.com/115058763/207849516-8bfeed24-5ff3-45a8-8c92-9edad084dc83.png">
+
 
 ## 作成した目的
 演習目的
