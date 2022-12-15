@@ -1,0 +1,254 @@
+{"data": [
+        {
+            "id": 1,
+            "user_id": "abcde",
+            "content": "test1",
+            "created_at": null,
+            "updated_at": null,
+            "user": {
+                "id": "abcde",
+                "name": "user1",
+                "created_at": null,
+                "updated_at": null
+            },
+            "like": [
+                {
+                    "id": 1,
+                    "user_id": "abcde",
+                    "post_id": 1,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 3,
+                    "user_id": "bcdef",
+                    "post_id": 1,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 4,
+                    "user_id": "cdefg",
+                    "post_id": 1,
+                    "created_at": null,
+                    "updated_at": null
+                }
+            ],
+            "comment": [
+                {
+                    "id": 1,
+                    "user_id": "abcde",
+                    "post_id": 1,
+                    "comment": "aaaaa",
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 2,
+                    "user_id": "bcdef",
+                    "post_id": 1,
+                    "comment": "bbbbb",
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 4,
+                    "user_id": "defgh",
+                    "post_id": 1,
+                    "comment": "ddddd",
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 5,
+                    "user_id": "efghi",
+                    "post_id": 1,
+                    "comment": "testcomment",
+                    "created_at": "2022-12-07T12:33:43.000000Z",
+                    "updated_at": "2022-12-07T12:33:43.000000Z"
+                },
+                {
+                    "id": 6,
+                    "user_id": "efghi",
+                    "post_id": 1,
+                    "comment": "testcomment",
+                    "created_at": "2022-12-07T13:50:07.000000Z",
+                    "updated_at": "2022-12-07T13:50:07.000000Z"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "user_id": "abcde",
+            "content": "test2",
+            "created_at": null,
+            "updated_at": null,
+            "user": {
+                "id": "abcde",
+                "name": "user1",
+                "created_at": null,
+                "updated_at": null
+            },
+            "like": [
+                {
+                    "id": 2,
+                    "user_id": "abcde",
+                    "post_id": 2,
+                    "created_at": null,
+                    "updated_at": null
+                }
+            ],
+            "comment": [
+                {
+                    "id": 3,
+                    "user_id": "abcde",
+                    "post_id": 2,
+                    "comment": "ccccc",
+                    "created_at": null,
+                    "updated_at": null
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "user_id": "bcdef",
+            "content": "test3",
+            "created_at": null,
+            "updated_at": null,
+            "user": {
+                "id": "bcdef",
+                "name": "user2",
+                "created_at": null,
+                "updated_at": null
+            },
+            "like": [],
+            "comment": []
+        },
+        {
+            "id": 4,
+            "user_id": "cdefg",
+            "content": "test4",
+            "created_at": null,
+            "updated_at": null,
+            "user": {
+                "id": "cdefg",
+                "name": "user3",
+                "created_at": null,
+                "updated_at": null
+            },
+            "like": [],
+            "comment": []
+        },
+        {
+            "id": 5,
+            "user_id": "efghi",
+            "content": "testcontent",
+            "created_at": "2022-12-07T11:38:32.000000Z",
+            "updated_at": "2022-12-07T11:38:32.000000Z",
+            "user": {
+                "id": "efghi",
+                "name": "user5",
+                "created_at": "2022-12-07T11:33:10.000000Z",
+                "updated_at": "2022-12-07T11:33:10.000000Z"
+            },
+            "like": [],
+            "comment": []
+        },
+        {
+            "id": 7,
+            "user_id": "efghi",
+            "content": "posttext2",
+            "created_at": "2022-12-07T13:52:06.000000Z",
+            "updated_at": "2022-12-07T13:52:06.000000Z",
+            "user": {
+                "id": "efghi",
+                "name": "user5",
+                "created_at": "2022-12-07T11:33:10.000000Z",
+                "updated_at": "2022-12-07T11:33:10.000000Z"
+            },
+            "like": [],
+            "comment": []
+        }
+    ],
+    "data2": [
+        {
+            "id": 1,
+            "user_id": "abcde",
+            "content": "test1",
+            "created_at": null,
+            "updated_at": null,
+            "user": {
+                "id": "abcde",
+                "name": "user1",
+                "created_at": null,
+                "updated_at": null
+            },
+            "like": [
+                {
+                    "id": 1,
+                    "user_id": "abcde",
+                    "post_id": 1,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 3,
+                    "user_id": "bcdef",
+                    "post_id": 1,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 4,
+                    "user_id": "cdefg",
+                    "post_id": 1,
+                    "created_at": null,
+                    "updated_at": null
+                }
+            ],
+            "comment": [
+                {
+                    "id": 1,
+                    "user_id": "abcde",
+                    "post_id": 1,
+                    "comment": "aaaaa",
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 2,
+                    "user_id": "bcdef",
+                    "post_id": 1,
+                    "comment": "bbbbb",
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 4,
+                    "user_id": "defgh",
+                    "post_id": 1,
+                    "comment": "ddddd",
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 5,
+                    "user_id": "efghi",
+                    "post_id": 1,
+                    "comment": "testcomment",
+                    "created_at": "2022-12-07T12:33:43.000000Z",
+                    "updated_at": "2022-12-07T12:33:43.000000Z"
+                },
+                {
+                    "id": 6,
+                    "user_id": "efghi",
+                    "post_id": 1,
+                    "comment": "testcomment",
+                    "created_at": "2022-12-07T13:50:07.000000Z",
+                    "updated_at": "2022-12-07T13:50:07.000000Z"
+                }
+            ]
+        }
+    ]
+
+}
